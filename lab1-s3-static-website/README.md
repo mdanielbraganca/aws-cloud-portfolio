@@ -22,3 +22,11 @@ A simple static webpage was successfully hosted using Amazon S3.
 - Cloud storage configuration
 - Static website hosting
 - S3 permissions and policies
+
+## Screenshots
+
+![Bucket Created](screenshots/1-bucket.png)
+![Index File Uploaded](screenshots/2-index-file.png)
+![Static Website Enabled](screenshots/3-static-hosting.png)
+![Bucket Policy](screenshots/4-bucket-policy.png)
+![Website Live](screenshots/5-live-website.png)
